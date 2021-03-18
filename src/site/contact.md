@@ -1,7 +1,6 @@
 ---
 title: Contact us
 layout: layouts/base.njk
-subtitle: Get in touch
 ---
 
 ## Get in touch
