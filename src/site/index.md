@@ -7,7 +7,7 @@ layout: layouts/base.njk
 
 ## This site is a starting point
 
-Think better was started by Brad Whittington with the goal of helping businesses and individuals to grow. 
+Think better was started by [Brad Whittington](https://za.linkedin.com/in/bradleywhittington) with the goal of helping businesses and individuals to grow. 
 
 We work with businesses to:
 
@@ -15,6 +15,8 @@ We work with businesses to:
 - Structure teams and processes for effective focus & delivery
 - Act as a thinking partner / outside perspective
 - Build cultures of growth, mentorship, and accountability
+- Perform technical due diligence on prospective investments
+- Perform technical capability review on prospective suppliers
 
 We work with individuals to:
 
