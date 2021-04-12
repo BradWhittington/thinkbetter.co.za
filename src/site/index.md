@@ -26,7 +26,7 @@ We work with individuals to:
 
 ## Some of our thoughts
 
-We try to jot down out thinking and ideas on a regular basis
+We try to jot down our thinking and ideas on a regular basis
 
 <ul class="listing">
 {%- for page in collections.post -%}
