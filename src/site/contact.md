@@ -1,5 +1,5 @@
 ---
-title: Contact us
+title: Contact Think Better
 layout: layouts/base.njk
 ---
 

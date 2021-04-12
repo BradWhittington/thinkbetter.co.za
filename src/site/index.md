@@ -15,6 +15,7 @@ We work with businesses to:
 - Structure teams and processes for effective focus & delivery
 - Act as a thinking partner / outside perspective
 - Build cultures of growth, mentorship, and accountability
+- Interview potential hires to be another perspective, and validate fit
 - Perform technical due diligence on prospective investments
 - Perform technical capability review on prospective suppliers
 
@@ -24,16 +25,4 @@ We work with individuals to:
 - Get perspective on leadership and strategy
 - Contextualise themselves inside an organisation
 
-## Some of our thoughts
-
-We try to jot down our thinking and ideas on a regular basis
-
-<ul class="listing">
-{%- for page in collections.post -%}
-  <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a> -
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-  </li>
-{%- endfor -%}
-</ul>
 
