@@ -1,9 +1,7 @@
 ---
-title: Writings by Think Better
+title: Writings
 layout: layouts/base.njk
 ---
-
-## Some thoughts
 
 <ul class="listing">
 {%- for page in collections.post -%}
