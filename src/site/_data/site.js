@@ -1,4 +1,4 @@
 module.exports = {
-  "rootUrl" : "https://thinkbetter.co.za",
+  "rootUrl" : "https://thinkbetter.systems",
   "buildTime" : new Date()
 }
